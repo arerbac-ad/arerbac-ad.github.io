@@ -10151,7 +10151,7 @@ header.masthead .masthead-subheading {
   font-family: "Baloo Da 2", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 header.masthead .masthead-heading {
-  font-size: 3.25rem;
+  font-size: 3rem;
   font-weight: 700;
   line-height: 3.25rem;
   margin-bottom: 2rem;
@@ -10230,7 +10230,7 @@ header.masthead .masthead-heading {
   text-align: center;
 }
 .portfolio-modal .modal-content h2 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   line-height: 3rem;
 }
 .portfolio-modal .modal-content p.item-intro {
